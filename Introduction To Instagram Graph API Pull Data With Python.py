@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
-#You only have to do two things to test the function: replace the instagram id and the API key
+#You only have to do two things to test the function: replace the instagram id and the access_token
 
 import requests
 import json
@@ -17,6 +17,7 @@ part_B_List = ["justinbieber", "selenagomez", "nickiminaj", "willsmith"]
 part_C = "){media{caption,media_url}}&"
 
 acces_token = "access_token=TFCDKJNIomd0ZBZBFZCAP5BCkfzjxELZAKLQDAChhZCIZD" # make sure you dont delete: access_token=
+
 box = []
 i = 0
 
