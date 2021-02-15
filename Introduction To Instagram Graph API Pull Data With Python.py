@@ -1,9 +1,5 @@
 #!/usr/bin/env python
 # coding: utf-8
-
-# In[1]:
-
-
 #You only have to do two things to test the function: replace the instagram id and the API key
 
 import requests
@@ -41,22 +37,3 @@ while i < len(part_B_List):
         box.append([""])
         i+=1
 print(box)
-
-
-# In[5]:
-
-
-print(box)
-
-
-# In[3]:
-
-
-box
-
-
-# In[ ]:
-
-
-
-
