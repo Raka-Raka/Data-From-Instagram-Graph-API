@@ -1,9 +1,9 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-#https://youtu.be/aViCdMj2RB4
+# https://youtu.be/aViCdMj2RB4
 
-#You only have to do two things to test the function: replace the instagram id and the access_token
+# You only have to do two things to test the function: replace the instagram id and the access_token
 
 import requests
 import json
